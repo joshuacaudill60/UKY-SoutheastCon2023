@@ -1,10 +1,10 @@
 #include <Servo.h>
 
 // drive servos
-Servo FL;  // Front left wheel servo
-Servo FR;	// Front right wheel servo
-Servo BL;		// Back left wheel servo
-Servo BR;	// Back right wheel servo
+Servo FL; // Front left wheel servo
+Servo FR; // Front right wheel servo
+Servo BL; // Back left wheel servo
+Servo BR; // Back right wheel servo
 
 // chip servos
 Servo CL; // Left chip dispenser servo
